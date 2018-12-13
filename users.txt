@@ -1,0 +1,159 @@
+Tyson
+Chandler
+cis22c
+datastructure
+0
+Hanford, CA
+Football, Baseball, Chess, Sailing, Birdwatching
+
+Michael
+Beasley
+micky1977
+abcdefg
+1
+Cupertino, CA
+Fishing, Painting, Singing
+
+Lance
+Stephenson
+lancy
+steveee111
+2
+San Jose, CA
+Hiking, Coding, Classical Music, Roller Skating, Fishing
+
+Svi
+Mykhailiuk
+cantfigureout
+FIGURESKATING!
+3
+San Mateo, CA
+Toaster, Basketball, Dancing, Music, Swimming
+
+Ronnie
+Lester
+happybday
+333444555
+4
+Los Angeles, CA
+Snakes, Music, Dancing, Movies, Traveling
+
+Kentavious
+Caldwell-Pope
+chewy
+kc@ucsc.edu
+5
+Berkeley, CA
+Basketball, Cooking, Music, Dancing, Golfing
+
+Kyle
+Kuzma
+Cupcake35
+ursoyummy
+6
+Oakland, CA
+Shrek, Soccer, Dancing, Music, Public Speaking
+
+Rajon
+Rondo
+rr@gmail.com
+yoursong
+7
+Houston, TX
+Fishing, Cooking, Music
+
+Brandon
+Ingram
+ladygaga
+Paint_your_palette
+8
+Reno, NV
+Music, Dancing, Tv-shows, Ted Talks
+
+Steve
+Bucknall
+heysteve
+wonderful
+9
+Albuquerque, NM
+UFC, Movies, Music, Dancing, Surfing
+
+Bob
+Burrow
+BOBBY
+prisonbreak
+10
+Orlando, FL
+Fashion, Music, Dancing, Movies, Fishing, Yoga, Bodypump
+
+Brian
+Cook
+BrianTest
+skirts
+11
+Atlanta, GA
+Basketball, Coaching, Movies, Hiking
+
+Kareem
+Abdul-Jabbar
+kkhello
+youknowwhat
+12
+Washington D.C.
+Calligraphy, Writing, Smoking, Architectural Design
+
+Josh
+Hart
+Joshie
+3.1415926
+13
+Austin, TX
+Traveling, Wine Tasting, Dancing
+
+LeBron
+James
+LEBBY
+caltrain
+14
+Seattle, WA
+Fishing, Painting, Singing
+
+Jerry
+West
+mynameisjerry
+smartwater
+15
+Denver, CO
+Ceramics, Photography, Figure Drawing, Knitting, Crocheting
+
+Nick
+Young
+tesla
+makeyouunlonely
+16
+Hartford, CT
+Sewing, Cooking, Baking, Gardening, Fishing
+
+Lamar
+Odom
+SUMMER_AROUND
+20181214
+17
+Phoenix, AZ
+Diving, Surfing
+
+Vlade
+Divac
+nationalparking
+wecouldbe
+18
+Juneau, AK
+Snowboarding, Skiing, Skating
+
+Horace
+Grant
+ilovemyra
+littletownhouse
+19
+Dover, DE
+Traveling, Antiquing, Music, Kickboxing, Yoga, Ballet, Classical Music
